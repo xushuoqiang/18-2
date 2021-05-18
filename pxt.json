@@ -1,0 +1,25 @@
+{
+    "name": "pxt-bitcar",
+    "version": "0.0.1",
+    "description": "The BitCar extension for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
+    },
+    "files": [
+        "README.md",
+        "bitcar.ts",
+        "_locales/zh/pxt-bitcar-strings.json",
+        "_locales/zh/pxt-bitcar-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

@@ -1,0 +1,10 @@
+{
+  "BitCar": "Provides access to BitCar blocks for micro: bit functionality.",
+  "BitCar.grove_ultrasonic": "Get the distance from Grove-Ultrasonic Sensor, the measuring range is between 2-350cm",
+  "BitCar.linefollow": "Line following at a specified speed.",
+  "BitCar.linesensor": "Check the state of the IR line sensor, the LED indicator is ON if the line is detected by the corresponding sensor",
+  "BitCar.move": "Set the motors' speed of BitCar",
+  "BitCar.standup_still": "When BitCar is still, make it stand up from the ground and then stop, try to tweak the motor speed and the charge time if it failed to do so",
+  "BitCar.stop": "BitCar stop",
+  "GrovePin": "***************************************************************************\r\n| Description :\tBitCar extension for micro:bit\r\n| Developer   :   CH Makered\r\n| More Info   :\thttp://chmakered.com/\r\n****************************************************************************"
+}
